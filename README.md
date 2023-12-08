@@ -9,8 +9,7 @@
 3. **Experience the Gooey Magic! ✨**
 
 ---
-
-## 🌟 Features
+ <h1>🌟 Features</h1>
 
 - 🎨 Rainbow-themed Gooey Drag Interface
 - 🚀 Smooth Drag-and-Drop Functionality
